@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\bin\DigitalNoticeBoard.dll
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\bin\DigitalNoticeBoard.pdb
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\obj\Debug\DigitalNoticeBoard.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\obj\Debug\DigitalNoticeBoard.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\obj\Debug\DigitalNoticeBoard.dll
+C:\Users\USER\Documents\DigitalNoticeBoard_v9_fixed\obj\Debug\DigitalNoticeBoard.pdb
